@@ -20,3 +20,5 @@ IT student at the **University of South Florida** (graduating May 2027), focused
 ### 📫 Reach me
 
 Open to **IT support, systems administration, SOC analyst and cloud** roles starting 2027.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarang--babaria-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarang-babaria/)
